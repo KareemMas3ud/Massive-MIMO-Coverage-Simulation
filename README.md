@@ -248,7 +248,6 @@ This project draws upon foundational and state-of-the-art research in Massive MI
 | Name | Role |
 |---|---|
 | **Kareem Mohamed** | Researcher & Developer |
-| **Rawan Essam** | Researcher |
 | **Rawan Habib** | Researcher |
 | **Rawan Walaa** | Researcher |
 | **Mahmoud Tarek** | Researcher |
