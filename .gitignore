@@ -1,0 +1,22 @@
+# MATLAB generated files
+*.asv
+*.m~
+*.mex*
+*.mlappinstall
+*.mlpkginstall
+slprj/
+codegen/
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Exclude PDFs, docs, and archives
+*.pdf
+*.docx
+*.xlsx
+*.zip
+
+# Directories not for upload
+old not our/
